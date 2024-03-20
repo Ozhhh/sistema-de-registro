@@ -5,3 +5,4 @@
 Para ejecutar el sistema , debes poner
 
 '''rpm install react'''
+Sistema de resgstro2
